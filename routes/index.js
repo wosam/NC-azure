@@ -175,7 +175,7 @@ module.exports = router;
  * path:
  *  /jokes/{jokeId}:
  *    delete:
- *      summary: Get a joke by id
+ *      summary: Delete a joke
  *      tags: [Jokes]
  *      parameters:
  *        - in: path
